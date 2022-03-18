@@ -58,6 +58,7 @@ function isEqual(a, b) {
     return (a == b);
 }
 
+
 function or(a, b) {
     return (a || b);
 }
